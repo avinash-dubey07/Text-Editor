@@ -1,0 +1,8 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Arial:wght@400;700&family=Courier+New:wght@400;700&family=Times+New+Roman:wght@400;700&family=Georgia:wght@400;700&family=Verdana:wght@400;700&family=Trebuchet+MS:wght@400;700&family=Comic+Sans+MS:wght@400;700&family=Impact:wght@400;700&family=Lucida+Console:wght@400;700&family=Tahoma:wght@400;700&display=swap');
